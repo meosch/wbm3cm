@@ -1,0 +1,13 @@
+{
+  "name": "meos/wbm3cm",
+  "type": "drupal-module-custom",
+  "description": "This module migrates the Workbench Moderation module to the Content Moderation module in Drupal 8.4.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "",
+  "minimum-stability": "dev",
+  "support": {
+    "source": "https://github.com/meosch/wbm3cm.git"
+  },
+  "require": { }
+}
