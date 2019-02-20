@@ -1,5 +1,5 @@
 {
-  "name": "meos/wbm3cm",
+  "name": "meosch/wbm3cm",
   "type": "drupal-module-custom",
   "description": "This module migrates the Workbench Moderation module to the Content Moderation module in Drupal 8.4.",
   "keywords": ["Drupal"],
